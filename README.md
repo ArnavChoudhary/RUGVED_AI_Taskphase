@@ -8,3 +8,7 @@ Week2:
 
 Week3:
 1) 13 levels of OverTheWire
+
+Week4: 
+1) Linear and Logistic Regression Theory + Implementation
+2) AI Gem dataset analysis
