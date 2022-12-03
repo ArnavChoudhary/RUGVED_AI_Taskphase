@@ -12,3 +12,10 @@ Week3:
 Week4: 
 1) Linear and Logistic Regression Theory + Implementation
 2) AI Gem dataset analysis
+
+Week5:
+1) OpenCv understanding + Youtube resources
+
+Week6:
+1) Image Pothole Detection using OpenCV
+2) Video Pothole Detection using OpenCV
