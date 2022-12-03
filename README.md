@@ -7,15 +7,15 @@ Week2:
 1) Idea about Pandas, Numpy, Matplotlib --> DONE
 
 Week3:
-1) 13 levels of OverTheWire
+1) 13 levels of OverTheWire --> DONE
 
 Week4: 
-1) Linear and Logistic Regression Theory + Implementation
-2) AI Gem dataset analysis
+1) Linear and Logistic Regression Theory + Implementation --> DONE
+2) AI Gem dataset analysis --> DONE
 
 Week5:
-1) OpenCv understanding + Youtube resources
+1) OpenCv understanding + Youtube resources --> DONE
 
 Week6:
-1) Image Pothole Detection using OpenCV
+1) Image Pothole Detection using OpenCV --> DONE
 2) Video Pothole Detection using OpenCV
